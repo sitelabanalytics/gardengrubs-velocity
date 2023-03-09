@@ -1,4 +1,6 @@
-# Gardengrubs.com/ V1 site - Managed by Aidxn.com/ 
+# Gardengrubs.com/ 
+_V1 site 
+_Managed by hi@aidxn.com
 
 # Website Stack - Velocity 
 - Theme by sitelabanalytics.com/
@@ -106,4 +108,7 @@ A garden that's a tranquil haven from the world
 
 - Replace colours and imaging to Gardening / Landscaping, then optimise for speed. (Aiden)
     - Approve Colours for website (Tegan)
-    - Suggested Colour Palette to use by Aiden: https://coolors.co/582f0e-7f4f24-936639-a68a64-b6ad90-c2c5aa-a4ac86-656d4a-414833-333d29
+    - Suggested Colour Palette to use by Aiden: 
+    V1 - https://coolors.co/582f0e-7f4f24-936639-a68a64-b6ad90-c2c5aa-a4ac86-656d4a-414833-333d29
+    V2 (suggested) - https://coolors.co/351c08-582f0e-7f4f24-936639-b6ad90-c2c5aa-656d4a-333d29-293120-1f2518
+   
