@@ -62,6 +62,46 @@ Sustainable gardening for a better future
 Transform your garden into an oasis
 
 
+Aiden PROMPT
+Write me 5 sub headers for each of the above headers, around 6-9 words long with a witty take.
+
+
+AI REACT
+Native garden restoration specialists
+Bringing the local flora back to life
+A garden that's truly native to you
+Restoring nature, one garden at a time
+Going back to our roots with native gardens
+Nurturing the environment, one plant at a time
+Personalized solutions for every garden
+Tailored to fit your unique style
+A garden that's as unique as you are
+Custom solutions for gardens of all sizes
+Designing a garden that's truly yours
+Making your dream garden a reality
+Experienced horticulturists at your service
+Bringing expertise to every garden
+Our green thumbs are at your service
+Passionate gardeners who love what they do
+Skilled professionals who know their plants
+Trust our horticulturists to keep your garden healthy
+Sustainable gardening for a better future
+Growing a better world, one garden at a time
+Eco-friendly gardening practices for a brighter tomorrow
+Creating a more sustainable future with every plant
+Green gardening for a greener planet
+Sustainable gardening that's good for you and the environment
+Transform your garden into an oasis
+A garden that's an escape from the everyday
+Turning your garden into your own private paradise
+Creating a relaxing retreat in your own backyard
+Transforming your garden into a beautiful sanctuary
+A garden that's a tranquil haven from the world
+
+
+
+
+
 
 
 - Replace colours and imaging to Gardening / Landscaping, then optimise for speed. (Aiden)
